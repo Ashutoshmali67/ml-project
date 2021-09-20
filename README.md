@@ -1,7 +1,7 @@
 we have the detailed of all the employees of Company  we will predict which employee will leave the job 
 the detail contain following Features.
  
-The maximum accuracy got as 76.18 % by using Logistic Regression and gradient boost regressor
+The maximum accuracy got as 76.18 % by using Logistic Regression and gradient boost classifier
 
 Features
 
