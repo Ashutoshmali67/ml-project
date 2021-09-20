@@ -35,8 +35,13 @@ Features
 
 Task Perform-:
 1.Read data
+
 2.clear all null value
+
 3. perform EDA
+
 4. perform some Analysis
+ 
 5. split into test,train ,split
+
 6. find accuracy using SVM ,Logistic regression,Decision tree, Random Forest
