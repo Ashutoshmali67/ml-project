@@ -1,1 +1,34 @@
-# ml-project
+we have the detailed of all the employees of Company  we will predict which employee will leave the job 
+the detail contain following Features.
+ 
+The maximum accuracy got as 76.18 % by using Logistic Regression and gradient boost regressor
+
+Features
+
+1.enrollee_id : Unique ID for candidate
+
+2.city: City code
+
+3.city_ development _index : Developement index of the city (scaled)
+
+4.gender: Gender of candidate
+
+5.relevent_experience: Relevant experience of candidate
+
+6.enrolled_university: Type of University course enrolled if any
+
+7.education_level: Education level of candidate
+
+8.major_discipline :Education major discipline of candidate
+
+9.experience: Candidate total experience in years
+
+10.company_size: No of employees in current employer's company
+
+11.company_type : Type of current employer
+
+12.lastnewjob: Difference in years between previous job and current job
+
+13.training_hours: training hours completed
+
+14.target: 0 – Not looking for job change, 1 – Looking for a job change
