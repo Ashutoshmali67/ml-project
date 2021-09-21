@@ -3,45 +3,32 @@ the detail contain following Features.
  
 The maximum accuracy got as 76.29 % by using Logistic Regression and gradient boost classifier
 
-Features
-
-1.enrollee_id : Unique ID for candidate
-
-2.city: City code
-
-3.city_ development _index : Developement index of the city (scaled)
-
-4.gender: Gender of candidate
-
-5.relevent_experience: Relevant experience of candidate
-
-6.enrolled_university: Type of University course enrolled if any
-
-7.education_level: Education level of candidate
-
-8.major_discipline :Education major discipline of candidate
-
-9.experience: Candidate total experience in years
-
-10.company_size: No of employees in current employer's company
-
-11.company_type : Type of current employer
-
-12.lastnewjob: Difference in years between previous job and current job
-
-13.training_hours: training hours completed
-
-14.target: 0 – Not looking for job change, 1 – Looking for a job change
-
 Task Perform-:
-1.Read data
 
-2.clear all null value
+ 1.Read data
 
-3. perform EDA
+ 2.clear all null value
 
-4. perform some Analysis
+ 3.perform EDA
+
+ 4.perform some Analysis
  
-5. split into test,train ,split
+ 5.split into test,train ,split
 
-6. find accuracy using SVM ,Logistic regression,Decision tree, Random Forest
+ 6.find accuracy using Logistic regression, Random Forest
+
+ 7.Hyperparameter Tune the models
+
+ 8.find the ROC Curve
+ 
+
+Result -:
+The maximum accuracy got as 76.29 % by using Logistic Regression.
+
+Conclusion-
+
+
+1. from above graphs we conclude that employees having 1 or 2 years experience leave therir job. 
+
+2. employees working in public sector and NGO they may not be leave their job while employees working in Early Stage Startup   may be  leave their job .
+
