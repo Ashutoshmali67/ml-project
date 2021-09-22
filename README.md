@@ -1,5 +1,4 @@
-we have the detailed of all the employees of Company  we will predict which employee will leave the job 
-the detail contain following Features.
+we will explore a dataset and understand which factors lead a person to leave their current job . Using this data, we’ll conduct an exploratory data analysis (EDA) to find patterns, and finally, build a model .
  
 The maximum accuracy got as 76.29 % by using Logistic Regression and gradient boost classifier
 
