@@ -22,7 +22,7 @@ Task Perform-:
  
 
 Result -:
-The maximum accuracy got as 76.29 % by using Logistic Regression.
+The maximum accuracy got as 79.02 % by using Logistic Regression.
 
 Conclusion-
 
