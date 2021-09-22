@@ -21,13 +21,15 @@ Task Perform-:
  8.find the ROC Curve
  
 
-Result -:
-The maximum accuracy got as 79.02 % by using Logistic Regression.
+Result -
 
-Conclusion-
+The maximum accuracy got as 78.67 % by using gradient boosting Classifier . but we dont got proper f1-score hence we use smote (Synthetic Minority Oversampling Technique). by using this we got better f1 score aand maximum accuracy got as 79.09 % by using gradient boosting Classifier .
 
+ Conclusion -
+ 
+ 1. from small company size and having experience of junior and middle experience employees leaving the job , to find the new   job
+ 
+2. male employees leaves their job more as compare to female employees.
 
-1. from above graphs we conclude that employees having 1 or 2 years experience leave therir job. 
-
-2. employees working in public sector and NGO they may not be leave their job while employees working in Early Stage Startup   may be  leave their job .
-
+4. most of the employees from early stage startup leave their job while employees work in public sector and , NGO have least   count of leave the job .
+ 
